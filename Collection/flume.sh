@@ -1,4 +1,4 @@
-:<<END
+:<<'END'
 Here,we provide a configuration file, describing a single ndoe flume deployment. If you want to obtain a further information on how each configuaration is made.
 Please visit the website,https://flume.apache.org/FlumeUserGuide.html 
 END
@@ -25,10 +25,8 @@ SmartCar_Agent.Channels.SmartCarInfo_Chaneel.transactionalCapacity=10000
 
 
 
-:<< END
+:<<'END'
 If  your data pipeline is broken for some reasons, w
-
-
 END
 
 #use a sink channel 
