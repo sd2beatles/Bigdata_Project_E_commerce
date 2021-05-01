@@ -1,3 +1,5 @@
+hadoop fs -setrep -R 1 /
+
 DROP TABLE IF EXISTS olist_customers_dataset;
 
 CREATE TABLE  olist_customers_dataset (
